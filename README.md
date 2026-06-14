@@ -1,4 +1,3 @@
-Hi 👋, I'm CHIRAG GUPTA 
 # 💫 About Me:
 🔭 I’m currently working on Data Structures & Algorithms, Web Development, and academic projects.<br>👯 I’m looking to collaborate on open-source projects, Web Apps, and C++/Java-based projects.<br>🤝 I’m looking for help with Advanced DSA, Competitive Programming, and System Design<br>💬 Ask me about C++, DSA, Problem Solving, College Projects, and CS fundamentals.<br>⚡ Fun fact: I enjoy debugging code more than writing it .
 
